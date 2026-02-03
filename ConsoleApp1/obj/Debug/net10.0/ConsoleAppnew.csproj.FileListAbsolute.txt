@@ -1,0 +1,15 @@
+C:\Users\Rashad\Desktop\ConsoleAppnew\ConsoleAppnew\bin\Debug\net10.0\ConsoleAppnew.exe
+C:\Users\Rashad\Desktop\ConsoleAppnew\ConsoleAppnew\bin\Debug\net10.0\ConsoleAppnew.deps.json
+C:\Users\Rashad\Desktop\ConsoleAppnew\ConsoleAppnew\bin\Debug\net10.0\ConsoleAppnew.runtimeconfig.json
+C:\Users\Rashad\Desktop\ConsoleAppnew\ConsoleAppnew\bin\Debug\net10.0\ConsoleAppnew.dll
+C:\Users\Rashad\Desktop\ConsoleAppnew\ConsoleAppnew\bin\Debug\net10.0\ConsoleAppnew.pdb
+C:\Users\Rashad\Desktop\ConsoleAppnew\ConsoleAppnew\obj\Debug\net10.0\ConsoleAppnew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashad\Desktop\ConsoleAppnew\ConsoleAppnew\obj\Debug\net10.0\ConsoleAppnew.AssemblyInfoInputs.cache
+C:\Users\Rashad\Desktop\ConsoleAppnew\ConsoleAppnew\obj\Debug\net10.0\ConsoleAppnew.AssemblyInfo.cs
+C:\Users\Rashad\Desktop\ConsoleAppnew\ConsoleAppnew\obj\Debug\net10.0\ConsoleAppnew.csproj.CoreCompileInputs.cache
+C:\Users\Rashad\Desktop\ConsoleAppnew\ConsoleAppnew\obj\Debug\net10.0\ConsoleAppnew.sourcelink.json
+C:\Users\Rashad\Desktop\ConsoleAppnew\ConsoleAppnew\obj\Debug\net10.0\ConsoleAppnew.dll
+C:\Users\Rashad\Desktop\ConsoleAppnew\ConsoleAppnew\obj\Debug\net10.0\refint\ConsoleAppnew.dll
+C:\Users\Rashad\Desktop\ConsoleAppnew\ConsoleAppnew\obj\Debug\net10.0\ConsoleAppnew.pdb
+C:\Users\Rashad\Desktop\ConsoleAppnew\ConsoleAppnew\obj\Debug\net10.0\ConsoleAppnew.genruntimeconfig.cache
+C:\Users\Rashad\Desktop\ConsoleAppnew\ConsoleAppnew\obj\Debug\net10.0\ref\ConsoleAppnew.dll
